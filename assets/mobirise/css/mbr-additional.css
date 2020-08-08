@@ -1515,6 +1515,45 @@ section.lazy-placeholder:after {
     padding: 15px;
   }
 }
+.cid-s75wiqr1XD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s75wiqr1XD .card-img {
+  background-color: #fff;
+}
+.cid-s75wiqr1XD .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-s75wiqr1XD h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s75wiqr1XD p {
+  text-align: left;
+}
+.cid-s75wiqr1XD .mbr-text {
+  color: #767676;
+}
+.cid-s75wiqr1XD .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s75wiqr1XD .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s75wiqr1XD .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
 .cid-qNEeZITxmG {
   padding-top: 0px;
   padding-bottom: 0px;
